@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="dam:Asset">
+    <jcr:content
+        dam:lastInvalidateCache="{Date}2016-01-16T23:34:10.840-05:00"
+        dam:s7damType="ImageSet"
+        jcr:lastModified="{Date}2016-04-06T19:50:22.564+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            cq:productReference="/etc/commerce/products/geometrixx-outdoors-screens/eq/eqbi/eqbisuset"
+            dam:productID="eqbisuset"
+            dc:description=""
+            dc:format="Multipart/Related; type=application/x-ImageSet"
+            dc:modified="{Date}2016-01-08T12:45:14.312-08:00"
+            dc:title="Sequoia"
+            jcr:lastModified="{Date}2016-04-06T19:50:22.564+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            manualThumbnail=""/>
+        <related jcr:primaryType="nt:unstructured">
+            <s7Set
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="sling/collection">
+                <sling:members
+                    jcr:primaryType="nt:unstructured"
+                    sling:resources="[/content/dam/we-retail/products/activities/biking/source/Sequoia.jpg,/content/dam/we-retail/products/activities/biking/source/Sequoia Side.jpg,/content/dam/we-retail/products/activities/biking/source/Sequoia Back.jpg]">
+                    <Sequoia_x0020_Side.jpg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/biking/source/Sequoia Side.jpg"/>
+                    <Sequoia_x0020_Back.jpg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/biking/source/Sequoia Back.jpg"/>
+                    <Sequoia.jpg0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/biking/source/Sequoia.jpg"/>
+                </sling:members>
+            </s7Set>
+        </related>
+        <usages
+            dam:score="{Long}2"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[unknown]">
+            <unknown
+                jcr:primaryType="nt:unstructured"
+                count="{Long}2"
+                lastUsed="{Date}2016-01-11T16:31:26.609-08:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

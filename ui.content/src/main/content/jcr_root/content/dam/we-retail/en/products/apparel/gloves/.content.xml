@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        dam:relativePath="we-retail/products/apparel/gloves"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Gloves">
+        <folderThumbnail/>
+    </jcr:content>
+    <Classic_x0020_Leather.jpg/>
+    <Comfort_x0020_Gel.jpg/>
+    <Midweight_x0020_Fleece.jpg/>
+    <Gloves.jpg/>
+    <_x0039_0019930.jpg/>
+</jcr:root>

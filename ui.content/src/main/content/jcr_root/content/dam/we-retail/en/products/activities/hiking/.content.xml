@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Hiking">
+        <folderThumbnail/>
+    </jcr:content>
+    <backpack/>
+    <backpack_colors/>
+    <backpack_alternateviews/>
+    <backpack_mixed_media/>
+    <backpack_spin/>
+    <_x0031_70227049.jpg/>
+</jcr:root>

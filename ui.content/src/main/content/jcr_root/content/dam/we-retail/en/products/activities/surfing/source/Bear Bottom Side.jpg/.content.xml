@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ad56aa4e-3b78-4abb-902d-8f2600b6228f">
+    <jcr:content
+        cq:name="Bear Bottom Side.jpg"
+        cq:parentPath="/content/dam/we-retail/products/activities/surfing/source"
+        dam:assetID="aaid:9b07f4b6a03549398521e58e193f9c89"
+        dam:lastInvalidateCache="{Date}2016-01-16T23:34:12.420-05:00"
+        dam:relativePath="we-retail/products/activities/surfing/source/Bear Bottom Side.jpg"
+        dam:s7damAnchorX="{Long}960"
+        dam:s7damAnchorY="{Long}474"
+        dam:s7damHeight="{Long}948"
+        dam:s7damType="Image"
+        dam:s7damWidth="{Long}1920"
+        jcr:lastModified="{Date}2016-04-06T19:51:00.469+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2016-01-11T14:04:24.020-08:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.1600000858306885"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}6.400000095367432"
+            dam:Progressive="no"
+            dam:sha1="e59b7747e734075bc1f484e28483ea72f1066f3d"
+            dam:size="{Long}271711"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-01-08T12:24:57.270-08:00"
+            exif:ColorSpace="{Long}-1"
+            exif:ExifOffset="{Long}236"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}1920"
+            exif:PixelYDimension="{Long}948"
+            jcr:lastModified="{Date}2016-04-06T19:50:59.926+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="[8,8,8,8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}948"
+            tiff:ImageWidth="{Long}1920"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300"
+            tiff:YResolution="300"
+            xmp:CreateDate="{Date}2015-08-18T12:56:07.000-07:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmp:MetadataDate="{Date}2015-09-17T10:03:03.000-07:00"
+            xmp:ModifyDate="{Date}2015-09-17T10:03:03.000+02:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:61d997ab-9dec-1178-9766-b63121e358c9"
+            xmpMM:InstanceID="xmp.iid:5aad5938-8ed5-4251-b4b9-4d71ad354aa8"
+            xmpMM:OriginalDocumentID="3E69AF7736A1801D62B5CFF8AA0079BF"
+            writebackEnable="{Boolean}true">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:36582c1a-a371-44ac-ac3b-5c1bbc4f86b8"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2015-09-17T10:03:03.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:5aad5938-8ed5-4251-b4b9-4d71ad354aa8"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2015-09-17T10:03:03.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

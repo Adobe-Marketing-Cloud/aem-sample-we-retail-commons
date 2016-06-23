@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:lastModified="{Date}2016-01-10T20:57:58.329-08:00"
+    jcr:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        cq:lastModified="{Date}2014-05-16T10:40:54.957-07:00"
+        cq:lastModifiedBy="admin"
+        dam:relativePath="we-retail/products/activities/hiking/backpack"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Source">
+        <folderThumbnail/>
+    </jcr:content>
+    <Backpack_C.jpg/>
+    <Backpack_H.jpg/>
+    <Frame_x0020_13.jpg/>
+    <Frame_x0020_14.jpg/>
+    <Backpack_J.jpg/>
+    <Backpack_B.jpg/>
+    <Frame_x0020_1.jpg/>
+    <Frame_x0020_2.jpg/>
+    <Frame_x0020_3.jpg/>
+    <Frame_x0020_4.jpg/>
+    <Frame_x0020_5.jpg/>
+    <Frame_x0020_6.jpg/>
+    <Frame_x0020_7.jpg/>
+    <Frame_x0020_8.jpg/>
+    <Frame_x0020_9.jpg/>
+    <Frame_x0020_10.jpg/>
+    <Frame_x0020_11.jpg/>
+    <Frame_x0020_12.jpg/>
+    <Frame_x0020_15.jpg/>
+    <Frame_x0020_16.jpg/>
+    <Frame_x0020_1/>
+    <Frame_x0020_2.png/>
+</jcr:root>

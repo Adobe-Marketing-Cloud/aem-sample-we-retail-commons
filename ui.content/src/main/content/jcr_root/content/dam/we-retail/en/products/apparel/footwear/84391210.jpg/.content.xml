@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="6746b14d-f45f-4ab9-9031-903cd783e1c1">
+    <jcr:content
+        cq:name="84391210.jpg"
+        cq:parentPath="/content/dam/we-retail/products/apparel/footwear"
+        dam:assetID="aaid:feaac81c64d6472b94f6f2760ff45746"
+        dam:lastInvalidateCache="{Date}2016-01-16T23:33:01.127-05:00"
+        dam:relativePath="we-retail/products/apparel/footwear/84391210.jpg"
+        dam:s7damAnchorX="{Long}1203"
+        dam:s7damAnchorY="{Long}850"
+        dam:s7damHeight="{Long}1700"
+        dam:s7damType="Image"
+        dam:s7damWidth="{Long}2407"
+        jcr:lastModified="{Date}2016-04-06T19:51:09.289+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            cq:productReference="/etc/commerce/products/we-retail/eq/running/spixa_runners"
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2016-01-13T21:21:56.155-08:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}5.666666507720947"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}8.023333549499512"
+            dam:productID="{Long}84391210"
+            dam:Progressive="no"
+            dam:sha1="9c1d6de162fef384907f126ae7f36519afe87948"
+            dam:size="{Long}2091019"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-01-13T21:25:51.848-08:00"
+            jcr:lastModified="{Date}2016-04-06T19:51:09.079+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}1700"
+            tiff:ImageWidth="{Long}2407"
+            writebackEnable="{Boolean}true"/>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}8"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[unknown]">
+            <unknown
+                jcr:primaryType="nt:unstructured"
+                count="{Long}8"
+                lastUsed="{Date}2016-01-16T17:20:28.216-05:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

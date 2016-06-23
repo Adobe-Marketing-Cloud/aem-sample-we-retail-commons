@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="dam:Asset">
+    <jcr:content
+        dam:lastInvalidateCache="{Date}2016-01-16T23:34:47.131-05:00"
+        dam:s7damType="ImageSet"
+        jcr:lastModified="{Date}2016-04-06T19:50:45.432+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            cq:productReference="/etc/commerce/products/we-retail/eq/running/eqrusugor"
+            dam:productID="eqrusugor"
+            dc:description=""
+            dc:format="Multipart/Related; type=application/x-ImageSet"
+            dc:modified="{Date}2016-01-08T12:48:54.056-08:00"
+            dc:title="GoMobile"
+            jcr:lastModified="{Date}2016-04-06T19:50:45.431+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            manualThumbnail=""/>
+        <related jcr:primaryType="nt:unstructured">
+            <s7Set
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="sling/collection">
+                <sling:members
+                    jcr:primaryType="nt:unstructured"
+                    sling:resources="[/content/dam/we-retail/products/activities/running/gomobile-source/GoMobile.jpg,/content/dam/we-retail/products/activities/running/gomobile-source/GoMobile Wrist.jpg,/content/dam/we-retail/products/activities/running/gomobile-source/GoMobile In Action.jpg,/content/dam/we-retail/products/activities/running/gomobile-source/GoMobile Detail.jpg]">
+                    <GoMobile_x0020_Wrist.jpg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/running/gomobile-source/GoMobile Wrist.jpg"/>
+                    <GoMobile_x0020_In_x0020_Action.jpg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/running/gomobile-source/GoMobile In Action.jpg"/>
+                    <GoMobile_x0020_Detail.jpg0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/running/gomobile-source/GoMobile Detail.jpg"/>
+                    <GoMobile.jpg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/running/gomobile-source/GoMobile.jpg"/>
+                </sling:members>
+            </s7Set>
+        </related>
+        <usages
+            dam:score="{Long}2"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[unknown]">
+            <unknown
+                jcr:primaryType="nt:unstructured"
+                count="{Long}2"
+                lastUsed="{Date}2016-01-11T16:30:06.688-08:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

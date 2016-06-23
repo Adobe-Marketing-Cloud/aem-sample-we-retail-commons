@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Source">
+        <folderThumbnail/>
+    </jcr:content>
+    <Sussex.jpg/>
+    <Sussex_x0020_Back.jpg/>
+    <Sussex_x0020_Side.jpg/>
+    <Sussex_x0020_Front.jpg/>
+    <Fleet_x0020_Shoe_x0020_Side.jpg/>
+    <Fleet_x0020_Shoe_x0020_Detail.jpg/>
+    <Fleet_x0020_Shoe.jpg/>
+    <Fleet_x0020_Shoe_x0020_Bottom.jpg/>
+</jcr:root>

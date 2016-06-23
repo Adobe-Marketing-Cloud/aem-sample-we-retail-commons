@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="b0bc8536-2c0e-4378-9589-c91809870b64">
+    <jcr:content
+        cq:name="30941863.jpg"
+        cq:parentPath="/content/dam/we-retail/products/activities/running"
+        dam:assetID="aaid:2eba9f8fb8764a65b6b11973575925f0"
+        dam:lastInvalidateCache="{Date}2016-01-16T23:35:00.733-05:00"
+        dam:relativePath="we-retail/products/activities/running/30941863.jpg"
+        dam:s7damAnchorX="{Long}1584"
+        dam:s7damAnchorY="{Long}1980"
+        dam:s7damHeight="{Long}3960"
+        dam:s7damType="Image"
+        dam:s7damWidth="{Long}3168"
+        jcr:lastModified="{Date}2016-04-06T19:50:33.474+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            cq:productReference="/etc/commerce/products/we-retail/eq/running/basa_mp3_player"
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2016-01-13T21:21:56.088-08:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}13.199999809265137"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}10.5600004196167"
+            dam:productID="30941863-one"
+            dam:Progressive="no"
+            dam:sha1="11e73fb8671bfc91c9d7e444affdc94a2764a703"
+            dam:size="{Long}1390818"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-01-13T21:29:48.089-08:00"
+            jcr:lastModified="{Date}2016-04-06T19:50:27.217+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}3960"
+            tiff:ImageWidth="{Long}3168"
+            writebackEnable="{Boolean}true"/>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}9"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[unknown]">
+            <unknown
+                jcr:primaryType="nt:unstructured"
+                count="{Long}9"
+                lastUsed="{Date}2016-01-16T17:21:25.935-05:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        cq:lastModified="{Date}2016-01-08T12:48:52.589-08:00"
+        cq:lastModifiedBy="admin"
+        dam:relativePath="we-retail/products/activities/running"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Running">
+        <folderThumbnail/>
+    </jcr:content>
+    <gomobile/>
+    <watter_bottle/>
+    <gomobile-source/>
+    <_x0033_0941863.jpg/>
+</jcr:root>

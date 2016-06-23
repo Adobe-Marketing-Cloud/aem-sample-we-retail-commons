@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        dam:relativePath="we-retail/products/apparel/shorts"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Shorts">
+        <folderThumbnail/>
+    </jcr:content>
+    <Buffalo.jpg/>
+    <Bahamas.jpg/>
+    <Desert_x0020_Sky.jpg/>
+    <Canyon.jpg/>
+    <Candide.jpg/>
+    <Corona.jpg/>
+    <Fatigue.jpg/>
+    <Fleet_x0020_Fox.jpg/>
+    <Pipeline_x0020_Blue.jpg/>
+    <Pipeline_x0020_Red.jpg/>
+    <Pipeline_x0020_Orange.jpg/>
+    <Shorts_men.jpg/>
+    <Shorts_women.jpg/>
+</jcr:root>

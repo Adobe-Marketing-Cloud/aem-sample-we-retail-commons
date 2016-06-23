@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Water Sports">
+        <folderThumbnail/>
+    </jcr:content>
+    <Manta_x0020_Ray.jpg/>
+    <Pufferfish_x0020_Blue.jpg/>
+    <Swim_x0020_Goggles_x0020_Green.jpg/>
+    <Pufferfish_x0020_Green.jpg/>
+    <Swim_x0020_Goggles_x0020_Yellow.jpg/>
+    <Swim_x0020_Goggles_x0020_Blue.jpg/>
+    <Pufferfish_x0020_Purple.jpg/>
+    <cabana/>
+    <source/>
+    <Aqua_x0020_Force.jpg/>
+</jcr:root>

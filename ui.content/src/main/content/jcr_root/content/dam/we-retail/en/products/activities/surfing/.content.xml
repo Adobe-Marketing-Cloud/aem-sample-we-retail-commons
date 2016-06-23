@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        cq:lastModified="{Date}2016-01-10T21:24:21.477-08:00"
+        cq:lastModifiedBy="admin"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Surfing">
+        <folderThumbnail/>
+    </jcr:content>
+    <Chasing_x0020_Tail.jpg/>
+    <Even_x0020_Keel.jpg/>
+    <rusty_parrot/>
+    <source/>
+    <bear/>
+    <neutrino0/>
+    <el_greco/>
+    <stretch/>
+</jcr:root>

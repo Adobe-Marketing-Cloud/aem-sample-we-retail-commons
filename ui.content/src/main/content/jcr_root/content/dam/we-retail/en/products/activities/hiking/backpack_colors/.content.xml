@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="dam:Asset">
+    <jcr:content
+        cq:lastModified="{Date}2014-05-16T10:40:46.082-07:00"
+        cq:lastModifiedBy="admin"
+        cq:lastReplicated="{Date}2016-01-08T16:36:49.727-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        dam:lastInvalidateCache="{Date}2016-01-16T23:35:25.361-05:00"
+        dam:relativePath="we-retail/products/activities/hiking/backpack_colors"
+        dam:s7damType="ImageSet"
+        jcr:lastModified="{Date}2016-04-06T19:50:26.349+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            cq:productReference="/etc/commerce/products/we-retail/eq/hiking/eqsmcz/eqsmcz.2"
+            dam:productID="eqsmcz.2"
+            dc:description=""
+            dc:format="Multipart/Related; type=application/x-ImageSet"
+            dc:modified="{Date}2014-05-15T13:49:52.696-07:00"
+            dc:title="Backpack Colors"
+            jcr:lastModified="{Date}2016-04-06T19:50:26.349+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            manualThumbnail=""/>
+        <related jcr:primaryType="nt:unstructured">
+            <s7Set
+                cq:lastReplicated="{Date}2014-05-20T10:22:26.355-07:00"
+                cq:lastReplicatedBy="admin"
+                cq:lastReplicationAction="Activate"
+                jcr:mixinTypes="[cq:ReplicationStatus]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="sling/collection">
+                <sling:members
+                    jcr:primaryType="nt:unstructured"
+                    sling:resources="[/content/dam/we-retail/products/activities/hiking/backpack/Backpack_C.jpg,/content/dam/we-retail/products/activities/hiking/backpack/Backpack_H.jpg,/content/dam/we-retail/products/activities/hiking/backpack/Backpack_J.jpg,/content/dam/we-retail/products/activities/hiking/backpack/Backpack_B.jpg]">
+                    <Backpack_C.jpg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/hiking/backpack/Backpack_C.jpg"/>
+                    <Backpack_H.jpg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/hiking/backpack/Backpack_H.jpg"/>
+                    <Backpack_J.jpg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/hiking/backpack/Backpack_J.jpg"/>
+                    <Backpack_B.jpg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/hiking/backpack/Backpack_B.jpg"/>
+                </sling:members>
+            </s7Set>
+        </related>
+        <usages
+            dam:score="{Long}2"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[unknown]">
+            <unknown
+                jcr:primaryType="nt:unstructured"
+                count="{Long}2"
+                lastUsed="{Date}2016-01-11T17:24:11.182-08:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>
