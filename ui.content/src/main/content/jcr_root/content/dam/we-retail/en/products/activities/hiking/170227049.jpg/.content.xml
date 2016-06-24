@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="7bdc771e-3447-4771-a3dc-ca8340f0879d">
+    <jcr:content
+        cq:name="170227049.jpg"
+        cq:parentPath="/content/dam/we-retail/products/activities/hiking"
+        dam:assetID="aaid:23b0064228624c20be3a5e42dfd10fd0"
+        dam:lastInvalidateCache="{Date}2016-01-16T23:35:29.934-05:00"
+        dam:relativePath="we-retail/products/activities/hiking/170227049.jpg"
+        dam:s7damAnchorX="{Long}1750"
+        dam:s7damAnchorY="{Long}1750"
+        dam:s7damHeight="{Long}3500"
+        dam:s7damType="Image"
+        dam:s7damWidth="{Long}3500"
+        jcr:lastModified="{Date}2016-04-06T19:50:28.585+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            cq:productReference="/etc/commerce/products/we-retail/eq/hiking/hiking_poles"
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2016-01-12T21:50:24.787-08:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}11.666666984558105"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}11.666666984558105"
+            dam:productID="170227049-Regular"
+            dam:Progressive="no"
+            dam:sha1="216e90a969c79a86ecaa52b5d50767247c7f24bd"
+            dam:size="{Long}527694"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-01-12T22:01:30.474-08:00"
+            jcr:lastModified="{Date}2016-04-06T19:50:27.944+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}3500"
+            tiff:ImageWidth="{Long}3500"
+            writebackEnable="{Boolean}true"/>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}3"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[unknown]">
+            <unknown
+                jcr:primaryType="nt:unstructured"
+                count="{Long}3"
+                lastUsed="{Date}2016-01-16T16:45:29.264-05:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

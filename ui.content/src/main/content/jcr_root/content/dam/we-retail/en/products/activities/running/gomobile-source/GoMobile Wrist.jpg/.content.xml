@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="351526e0-5dbe-4679-b78d-f17e87162bb7">
+    <jcr:content
+        cq:name="GoMobile Wrist.jpg"
+        cq:parentPath="/content/dam/we-retail/products/activities/running/gomobile-source"
+        dam:assetID="351526e0-5dbe-4679-b78d-f17e87162bb7"
+        dam:lastInvalidateCache="{Date}2016-01-16T23:34:43.359-05:00"
+        dam:relativePath="we-retail/products/activities/running/gomobile-source/GoMobile Wrist.jpg"
+        dam:s7damAnchorX="{Long}360"
+        dam:s7damAnchorY="{Long}540"
+        dam:s7damHeight="{Long}1080"
+        dam:s7damType="Image"
+        dam:s7damWidth="{Long}721"
+        jcr:lastModified="{Date}2016-04-06T19:50:44.988+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2016-01-11T14:04:32.118-08:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.5999999046325684"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}2.4033334255218506"
+            dam:Progressive="no"
+            dam:sha1="1658cc00f09accb60ad99c1837893843891b6448"
+            dam:size="{Long}320929"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-01-08T12:25:03.130-08:00"
+            exif:ColorSpace="{Long}-1"
+            exif:ExifOffset="{Long}236"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}721"
+            exif:PixelYDimension="{Long}1080"
+            jcr:lastModified="{Date}2016-04-06T19:50:44.645+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="[8,8,8,8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}721"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300"
+            tiff:YResolution="300"
+            xmp:CreateDate="{Date}2015-09-08T15:18:18.000-07:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmp:MetadataDate="{Date}2015-09-17T10:03:20.000-07:00"
+            xmp:ModifyDate="{Date}2015-09-17T10:03:20.000+02:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:6c0bf460-9dec-1178-9766-b63121e358c9"
+            xmpMM:InstanceID="xmp.iid:2233ffe6-59c9-4f8e-930e-7b105e994b77"
+            xmpMM:OriginalDocumentID="39C6C96BAF3A1EC50C02520D1C9069BC"
+            writebackEnable="{Boolean}true">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:77f9a387-1790-4261-b794-51ac8e940735"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2015-09-17T10:03:20.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:2233ffe6-59c9-4f8e-930e-7b105e994b77"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2015-09-17T10:03:20.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

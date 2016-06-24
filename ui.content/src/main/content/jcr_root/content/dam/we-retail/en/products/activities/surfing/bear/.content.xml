@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="dam:Asset">
+    <jcr:content
+        dam:lastInvalidateCache="{Date}2016-01-16T23:34:11.078-05:00"
+        dam:s7damType="ImageSet"
+        jcr:lastModified="{Date}2016-04-06T19:50:58.791+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            cq:productReference="/etc/commerce/products/geometrixx-outdoors-screens/eq/eqsu/eqsusubed"
+            dam:productID="eqsusubed"
+            dc:description=""
+            dc:format="Multipart/Related; type=application/x-ImageSet"
+            dc:modified="{Date}2016-01-10T21:05:34.924-08:00"
+            dc:title="Bear"
+            jcr:lastModified="{Date}2016-04-06T19:50:58.790+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            manualThumbnail=""/>
+        <related jcr:primaryType="nt:unstructured">
+            <s7Set
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="sling/collection">
+                <sling:members
+                    jcr:primaryType="nt:unstructured"
+                    sling:resources="[/content/dam/we-retail/products/activities/surfing/source/Bear.jpg,/content/dam/we-retail/products/activities/surfing/source/Bear Side.jpg,/content/dam/we-retail/products/activities/surfing/source/Bear Bottom Side.jpg,/content/dam/we-retail/products/activities/surfing/source/Bear Bottom.jpg]">
+                    <Bear_x0020_Bottom.jpg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/surfing/source/Bear Bottom.jpg"/>
+                    <Bear.jpg0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/surfing/source/Bear.jpg"/>
+                    <Bear_x0020_Bottom_x0020_Side.jpg0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/surfing/source/Bear Bottom Side.jpg"/>
+                    <Bear_x0020_Side.jpg0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/activities/surfing/source/Bear Side.jpg"/>
+                </sling:members>
+            </s7Set>
+        </related>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[unknown]">
+            <unknown
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2016-01-11T16:23:50.797-08:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

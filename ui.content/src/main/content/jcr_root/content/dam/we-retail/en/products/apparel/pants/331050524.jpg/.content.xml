@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="cade479c-5e33-4a00-a7df-7c49bdb03589">
+    <jcr:content
+        cq:name="331050524.jpg"
+        cq:parentPath="/content/dam/we-retail/products/apparel/pants"
+        dam:assetID="aaid:d21989bbc4c54d7e98ee7db6741f3787"
+        dam:lastInvalidateCache="{Date}2016-01-16T23:33:48.526-05:00"
+        dam:relativePath="we-retail/products/apparel/pants/331050524.jpg"
+        dam:s7damAnchorX="{Long}2121"
+        dam:s7damAnchorY="{Long}2880"
+        dam:s7damHeight="{Long}5760"
+        dam:s7damType="Image"
+        dam:s7damWidth="{Long}4243"
+        jcr:lastModified="{Date}2016-04-06T19:51:36.206+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            cq:productReference="/etc/commerce/products/we-retail/wo/pants/hiking_pants"
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2016-01-12T21:50:25.445-08:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}19.200000762939453"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}14.143333435058594"
+            dam:productID="{Long}331050524"
+            dam:Progressive="no"
+            dam:sha1="a2ee83cd105ddc69434d89642719dfa8526cba07"
+            dam:size="{Long}8361372"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-01-12T22:07:08.611-08:00"
+            jcr:lastModified="{Date}2016-04-06T19:51:30.740+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}5760"
+            tiff:ImageWidth="{Long}4243"
+            writebackEnable="{Boolean}true"/>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}3"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[unknown]">
+            <unknown
+                jcr:primaryType="nt:unstructured"
+                count="{Long}3"
+                lastUsed="{Date}2016-01-16T16:58:24.175-05:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

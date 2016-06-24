@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="dam:Asset">
+    <jcr:content
+        dam:lastInvalidateCache="{Date}2016-01-16T23:31:53.410-05:00"
+        dam:s7damType="ImageSet"
+        jcr:lastModified="{Date}2016-04-06T19:51:24.874+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            cq:productReference="/etc/commerce/products/geometrixx-outdoors-screens/me/meot/meotwizuf"
+            dam:productID="meotwizuf"
+            dc:description=""
+            dc:format="Multipart/Related; type=application/x-ImageSet"
+            dc:modified="{Date}2016-01-08T12:29:58.562-08:00"
+            dc:title="Zurich"
+            jcr:lastModified="{Date}2016-04-06T19:51:24.874+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            manualThumbnail=""/>
+        <related jcr:primaryType="nt:unstructured">
+            <s7Set
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="sling/collection">
+                <sling:members
+                    jcr:primaryType="nt:unstructured"
+                    sling:resources="[/content/dam/we-retail/products/apparel/scarfs/source/Zurich.jpg,/content/dam/we-retail/products/apparel/scarfs/source/Zurich Half Rolled.jpg,/content/dam/we-retail/products/apparel/scarfs/source/Zurich Rolled.jpg]">
+                    <Zurich.jpg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/apparel/scarfs/source/Zurich.jpg"/>
+                    <Zurich_x0020_Half_x0020_Rolled.jpg0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/apparel/scarfs/source/Zurich Half Rolled.jpg"/>
+                    <Zurich_x0020_Rolled.jpg0
+                        jcr:primaryType="nt:unstructured"
+                        sling:resource="/content/dam/we-retail/products/apparel/scarfs/source/Zurich Rolled.jpg"/>
+                </sling:members>
+            </s7Set>
+        </related>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[unknown]">
+            <unknown
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2016-01-11T16:14:10.081-08:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

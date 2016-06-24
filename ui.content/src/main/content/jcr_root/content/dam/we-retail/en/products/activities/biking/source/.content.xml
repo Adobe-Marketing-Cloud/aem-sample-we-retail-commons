@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Source">
+        <folderThumbnail/>
+    </jcr:content>
+    <Sequoia.jpg/>
+    <Chain_x0020_Tool_x0020_In_x0020_Action_x0020_1.jpg/>
+    <Sequoia_x0020_Back.jpg/>
+    <Chain_x0020_Tool_x0020_In_x0020_Action_x0020_2.jpg/>
+    <Chain_x0020_Tool.jpg/>
+    <Sequoia_x0020_Side.jpg/>
+    <MX121.jpg/>
+    <MX121_x0020_Detail.jpg/>
+</jcr:root>

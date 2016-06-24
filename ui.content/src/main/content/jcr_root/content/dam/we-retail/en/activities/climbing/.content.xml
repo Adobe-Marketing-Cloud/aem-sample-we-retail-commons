@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <cliff-overhang.jpg/>
+    <climber-gear-indoor.jpg/>
+    <climber-gear-outdoor.jpg/>
+    <climber-gear-rope.jpg/>
+    <ice-climbing-group.jpg/>
+    <indoor-practicing.jpg/>
+    <kalymnos-island-female.jpg/>
+    <kalymnos-island-male.jpg/>
+    <jcr:content
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Climbing">
+        <folderThumbnail/>
+    </jcr:content>
+</jcr:root>

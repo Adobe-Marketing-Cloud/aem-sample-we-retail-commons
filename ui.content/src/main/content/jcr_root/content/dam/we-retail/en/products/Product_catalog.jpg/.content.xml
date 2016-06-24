@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="09fab5d3-dccf-437d-98aa-b9455bcc19a1">
+    <jcr:content
+        cq:name="Product_catalog.jpg"
+        cq:parentPath="/content/dam/we-retail/products"
+        dam:assetID="aaid:6d0c4d76683d436891a9b3964768a360"
+        dam:relativePath="we-retail/products/Product_catalog.jpg"
+        dam:s7damType="Image"
+        jcr:lastModified="{Date}2016-04-06T19:51:35.386+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.5999999046325684"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}6.400000095367432"
+            dam:Progressive="no"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-02-17T18:06:37.948-08:00"
+            exif:ColorSpace="{Long}-1"
+            exif:ExifOffset="{Long}236"
+            exif:PixelXDimension="{Long}1920"
+            exif:PixelYDimension="{Long}1080"
+            jcr:lastModified="{Date}2016-04-06T19:51:32.071+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Bag"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}1920"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300"
+            tiff:YResolution="300"
+            xmp:CreateDate="{Date}2016-02-17T16:38:55.000-08:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmp:MetadataDate="{Date}2016-02-17T16:57:41.000-08:00"
+            xmp:ModifyDate="{Date}2016-02-17T16:57:41.000+01:00"
+            xmpMM:DocumentID="28417B7C7607E1400DFD1C96CF585105"
+            xmpMM:InstanceID="xmp.iid:3f5c4266-d0a9-46d7-ad2b-a9182b644528"
+            xmpMM:OriginalDocumentID="28417B7C7607E1400DFD1C96CF585105"
+            writebackEnable="{Boolean}true">
+            <xmpMM:History jcr:primaryType="nt:unstructured"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

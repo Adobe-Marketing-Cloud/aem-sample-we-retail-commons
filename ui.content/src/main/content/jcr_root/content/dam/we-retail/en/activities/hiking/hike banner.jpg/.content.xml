@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="7bba1eb9-4c81-44f8-90d3-4115c53b84b1">
+    <jcr:content
+        cq:name="hike banner.jpg"
+        cq:parentPath="/content/dam/we-retail/activities/hiking"
+        dam:assetID="aaid:e494bc30edc94c2da2d05f7cd280ffdb"
+        dam:lastInvalidateCache="{Date}2016-01-16T23:31:39.607-05:00"
+        dam:relativePath="we-retail/activities/hiking/hike banner.jpg"
+        dam:s7damAnchorX="{Long}2808"
+        dam:s7damAnchorY="{Long}1872"
+        dam:s7damHeight="{Long}3744"
+        dam:s7damType="Image"
+        dam:s7damWidth="{Long}5616"
+        jcr:lastModified="{Date}2016-04-06T19:49:58.755+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2016-01-12T21:50:26.046-08:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}12.479999542236328"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}18.719999313354492"
+            dam:Progressive="no"
+            dam:sha1="9dbd749d444fc2e15464538f383f1f5c66e64413"
+            dam:size="{Long}11202815"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-01-14T19:38:46.049-08:00"
+            jcr:lastModified="{Date}2016-04-06T19:49:58.568+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}3744"
+            tiff:ImageWidth="{Long}5616"
+            areAllMembersProducts="{Boolean}true"
+            imageMap="\[poly(822,537,832,537,832,527,822,527,822,537)&quot;quickview:sku=/etc/commerce/products/we-retail/wo/gloves/gloves/90019930&amp;reservedVal_productPath=/etc/commerce/products/we-retail/wo/gloves/gloves&amp;reservedVal_productThumbnail=http://localhost:4502/etc/commerce/products/we-retail/wo/gloves/gloves/image.thumbnail.319.png/1452980635674.png&quot;|&quot;&quot;|&quot;Hotspot 1&quot;][poly(2118,1185,2128,1185,2128,1175,2118,1175,2118,1185)&quot;quickview:sku=/etc/commerce/products/we-retail/eq/hiking/hiking_poles/170227049&amp;reservedVal_productPath=/etc/commerce/products/we-retail/eq/hiking/hiking_poles&amp;reservedVal_productThumbnail=http://localhost:4502/etc/commerce/products/we-retail/eq/hiking/hiking_poles/assets/asset.thumbnail.319.png/1452980731881.png&quot;|&quot;&quot;|&quot;Hotspot 2&quot;][poly(1593,343,1603,343,1603,333,1593,333,1593,343)&quot;quickview:sku=woskwislt&amp;reservedVal_productPath=/etc/commerce/products/we-retail/wo/coats/woskwislt&amp;reservedVal_productThumbnail=http://localhost:4502/etc/commerce/products/we-retail/wo/coats/woskwislt/image.thumbnail.319.png/1456183902729.png&quot;|&quot;&quot;|&quot;Hotspot 3&quot;][poly(1302,1827,1312,1827,1312,1817,1302,1817,1302,1827)&quot;quickview:sku=/etc/commerce/products/we-retail/wo/pants/hiking_pants/331050524&amp;reservedVal_productPath=/etc/commerce/products/we-retail/wo/pants/hiking_pants&amp;reservedVal_productThumbnail=http://localhost:4502/etc/commerce/products/we-retail/wo/pants/hiking_pants/image.thumbnail.319.png/1452981506225.png&quot;|&quot;&quot;|&quot;Hotspot 4&quot;]"
+            writebackEnable="{Boolean}true"/>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}7"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}7"
+                lastUsed="{Date}2016-02-22T16:56:30.337-08:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>
