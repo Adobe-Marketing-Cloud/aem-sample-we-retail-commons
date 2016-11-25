@@ -15,7 +15,7 @@
         dam:s7damHeight="{Long}1080"
         dam:s7damType="Image"
         dam:s7damWidth="{Long}1920"
-        jcr:lastModified="{Date}2016-04-06T19:50:22.110+02:00"
+        jcr:lastModified="{Date}2016-11-02T14:46:21.501+01:00"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
@@ -36,7 +36,7 @@
             exif:ExifVersion="0221"
             exif:PixelXDimension="{Long}1920"
             exif:PixelYDimension="{Long}1080"
-            jcr:lastModified="{Date}2016-04-06T19:50:14.253+02:00"
+            jcr:lastModified="{Date}2016-11-02T14:46:21.112+01:00"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
@@ -53,6 +53,8 @@
             xmpMM:DocumentID="adobe:docid:photoshop:5e83b9fc-fb7e-1178-9b17-8a9c853140bd"
             xmpMM:InstanceID="xmp.iid:76ed9856-8a0d-460f-bfe1-c0522273ffd5"
             xmpMM:OriginalDocumentID="3F6938C0FD3F0EEB2CAA690368CD63B9"
+            areAllMembersProducts="{Boolean}true"
+            imageMap="\[poly(1520,958,1530,958,1530,948,1520,948,1520,958)&quot;quickview:sku=eqsmit&amp;reservedVal_productPath=/etc/commerce/products/geometrixx-outdoors/eq/eqsm/eqsmit&amp;reservedVal_productThumbnail=/etc/commerce/products/geometrixx-outdoors/eq/eqsm/eqsmit/image.thumbnail.319.png/1422275288323.png&quot;|&quot;&quot;|&quot;Shoes&quot;][poly(920,963,930,963,930,953,920,953,920,963)&quot;quickview:sku=eqswsumak&amp;reservedVal_productPath=/etc/commerce/products/we-retail/eq/water-sports/eqswsumak&amp;reservedVal_productThumbnail=/etc/commerce/products/we-retail/eq/water-sports/eqswsumak/image.thumbnail.319.png/1477470980692.png&quot;|&quot;&quot;|&quot;Hotspot 2&quot;][poly(1189,216,1199,216,1199,206,1189,206,1189,216)&quot;quickview:sku=eqsmcj&amp;reservedVal_productPath=/etc/commerce/products/geometrixx-outdoors/eq/eqsm/eqsmcj&amp;reservedVal_productThumbnail=/etc/commerce/products/geometrixx-outdoors/eq/eqsm/eqsmcj/image.thumbnail.319.png/1422275288290.png&quot;|&quot;&quot;|&quot;Hotspot 3&quot;][poly(733,352,743,352,743,342,733,342,733,352)&quot;quickview:sku=eqbisublp&amp;reservedVal_productPath=/etc/commerce/products/we-retail/eq/biking/eqbisublp&amp;reservedVal_productThumbnail=/etc/commerce/products/we-retail/eq/biking/eqbisublp/image.thumbnail.319.png/1477470925810.png&quot;|&quot;&quot;|&quot;Hotspot 4&quot;]"
             writebackEnable="{Boolean}true">
             <xmpMM:History
                 jcr:primaryType="nt:unstructured"
@@ -78,5 +80,14 @@
             </xmpMM:History>
         </metadata>
         <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}3"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}3"
+                lastUsed="{Date}2016-11-02T15:08:49.689+01:00"/>
+        </usages>
     </jcr:content>
 </jcr:root>
